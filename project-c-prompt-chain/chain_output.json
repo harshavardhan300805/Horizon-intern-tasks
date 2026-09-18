@@ -1,0 +1,17 @@
+{
+  "topic": "Reducing hallucination in large language models",
+  "sub_questions": [
+    "What problem does Reducing hallucination in large language models solve, and for whom?",
+    "What are the main technical approaches used in Reducing hallucination in large language models today?",
+    "What are the current limitations or open challenges in Reducing hallucination in large language models?",
+    "Where is Reducing hallucination in large language models likely headed in the next few years?"
+  ],
+  "sub_answers": {
+    "What problem does Reducing hallucination in large language models solve, and for whom?": "[demo answer] Summarizes the core problem and primary users, based on this sub-question in isolation.",
+    "What are the main technical approaches used in Reducing hallucination in large language models today?": "[demo answer] Summarizes the 2-3 dominant technical approaches, noting trade-offs between them.",
+    "What are the current limitations or open challenges in Reducing hallucination in large language models?": "[demo answer] Lists the most commonly cited open challenges or limitations.",
+    "Where is Reducing hallucination in large language models likely headed in the next few years?": "[demo answer] Offers a cautious, near-term outlook, flagging genuine uncertainty."
+  },
+  "critique": "- No major contradictions found between sub-answers.\n- The 'limitations' answer is somewhat vague \u2014 needs a concrete example.\n- The 'future direction' answer should explicitly flag it is speculative.",
+  "final_report": "# Research Report: Reducing hallucination in large language models\n\n## Introduction\n[demo] Brief framing of Reducing hallucination in large language models and why it matters.\n\n## What problem does it solve?\n[demo answer] Summarizes the core problem and primary users, based on this sub-question in isolation.\n\n## Current approaches\n[demo answer] Summarizes the 2-3 dominant technical approaches, noting trade-offs between them.\n\n## Limitations\n[demo answer] Lists the most commonly cited open challenges or limitations. (Note: a concrete example should be added \u2014 flagged by the critique stage.)\n\n## Outlook\n[demo answer] Offers a cautious, near-term outlook, flagging genuine uncertainty. This is speculative, as flagged by the critique stage.\n\n## Conclusion\n[demo] Short wrap-up synthesizing the sections above.\n"
+}
